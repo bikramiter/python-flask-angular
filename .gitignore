@@ -1,0 +1,27 @@
+# Python files
+*.pyc
+__pycache__/
+
+# Environment variables file (if you're using one)
+.env
+
+# Virtual environment folder
+venv/
+
+# IDE/Editor files
+.vscode/
+*.code-workspace
+*.idea/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
+
+# Other generated files
+.DS_Store
